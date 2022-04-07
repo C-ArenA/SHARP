@@ -1,7 +1,7 @@
 {
 	"name": "Sharp",
-	"version": "1.0.0",
-	"description": "Library to use SHARP sensors. It will return distance read and will let you adjust some parameters cause no every SHARP sensor works the same and they need to be calibrated",
+	"version": "1.0.1",
+	"description": "Library to use SHARP sensors. It will return distance read and will let you adjust some parameters cause not every SHARP sensor works the same and they need to be calibrated",
 	"keywords": "sharp, ir, distance, adjustable",
 	"repository": {
 		"type": "git",
@@ -12,6 +12,11 @@
 			"name": "Carlos Arena",
 			"email": "carlostata.ca@gmail.com",
 			"maintainer": true
+		},
+		{
+			"name": "VReality",
+			"email": "info@vrealitybolivia.com",
+			"url": "https://vrealitybolivia.com"
 		}
 	],
 	"license": "MIT",

@@ -1,3 +1,9 @@
+/*
+	Helps you use sharp sensors
+	By Carlos Arena (arenamovediza)
+	By VReality (https://vrealitybolivia.com)
+*/
+
 #pragma once
 
 #include <Arduino.h>
